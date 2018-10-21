@@ -8,7 +8,7 @@ from datetime import datetime
 start_time = datetime.now()
 url = 'https://gist.github.com/paulmillr/2657075'
 url_api = "https://api.github.com/"
-id_perso = ("mathieubruniquel","fdb1049583d7579fe51b2bb7be39dcbc0d00b927")
+id_perso = ("mathieubruniquel","mykey")
 
 # Scrapping du TOP 256 gitters
 def top_giters(url):
