@@ -1,0 +1,16 @@
+README 
+
+// Instructions à lire avant d'exécuter le code du Trainer //
+
+Le dossier téléchargé contient les fichiers 
+	- de code : « Preprocessor.scala » et « Trainer.scala »
+	- set
+	- build_and_submit.sh
+
+Le code écrit dans le cadre du TP3 est écrit dans le fichier Trainer et ce dernier est exécutable grâce au build_and_submit.sh depuis le terminal.
+
+// Détail du travail effectué //
+
+Le Trainer contient :
+- les tâches demandées dans le sujet du TP
+- deux tentatives de modélisation par des techniques de machine learning différentes de la regression linéaire. Ces dernières ne sont pas exécutées car leur temps d’exécution est particulièrement long. Si vous souhaiter observer les résultats, il vous suffit d’enlever les balises commentaires.
