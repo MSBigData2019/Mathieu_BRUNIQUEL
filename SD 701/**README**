@@ -1,0 +1,5 @@
+**README**
+
+Le fichier fournit est au format jupyter notebook.
+L'exercice a été utilisé en utilisant python et jupyter notebook car il m'a permis d'effectuer la visualisation et l'exploration des données plus facilement que sur databricks.
+De plus, les capacités computationnelles de databricks community edition etant plus limité que python sur ma machine, j'ai décidé d'effectuer la constructions des modèles en python sur le même support.
